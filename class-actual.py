@@ -4,3 +4,4 @@ student1 = Student("Peter", "Media", 5.0, False)
 
 print(student1.name)
 print("test")
+print("test")
